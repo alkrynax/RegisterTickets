@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EY/aW0yeQOxUAnz/g+MX9bWqpyXstep6o1cdGd7LwoC1jcfSxmIIdMxP6dS6riMEuWAwRkD94AXviw4vEveTww==",
+  "dgSpecHash": "kMd2pmTpRB2sZTCfCHbKH7futb2s4cxv1/grlIk9f9OywhrcM7d2BnbWspwcn25G1s7HDktx3Vp+bhN+SnKqZA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Alkry\\source\\repos\\RegisterTickets\\TestProject1\\TestProject1.csproj",
+  "projectFilePath": "C:\\Users\\Alkry\\source\\repos\\RegisterTickets\\TestProject1\\RegisterTicketsTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alkry\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\Alkry\\.nuget\\packages\\microsoft.codecoverage\\17.3.2\\microsoft.codecoverage.17.3.2.nupkg.sha512",

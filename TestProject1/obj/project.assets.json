@@ -6119,9 +6119,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alkry\\source\\repos\\RegisterTickets\\TestProject1\\TestProject1.csproj",
-      "projectName": "TestProject1",
-      "projectPath": "C:\\Users\\Alkry\\source\\repos\\RegisterTickets\\TestProject1\\TestProject1.csproj",
+      "projectUniqueName": "C:\\Users\\Alkry\\source\\repos\\RegisterTickets\\TestProject1\\RegisterTicketsTests.csproj",
+      "projectName": "RegisterTicketsTests",
+      "projectPath": "C:\\Users\\Alkry\\source\\repos\\RegisterTickets\\TestProject1\\RegisterTicketsTests.csproj",
       "packagesPath": "C:\\Users\\Alkry\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Alkry\\source\\repos\\RegisterTickets\\TestProject1\\obj\\",
       "projectStyle": "PackageReference",
