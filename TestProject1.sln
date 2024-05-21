@@ -4,8 +4,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 17.5.33424.131
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RegisterTicketsTests", "TestProject1\RegisterTicketsTests.csproj", "{14906F28-4C63-4F31-A60E-B2528941E95F}"
+	ProjectSection(ProjectDependencies) = postProject
+		{A36427B4-D4E4-4CE8-83E7-A4C98618874E} = {A36427B4-D4E4-4CE8-83E7-A4C98618874E}
+	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegisterTickets", "RegisterTickets\RegisterTickets.csproj", "{A36427B4-D4E4-4CE8-83E7-A4C98618874E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RegisterTickets", "RegisterTickets\RegisterTickets.csproj", "{A36427B4-D4E4-4CE8-83E7-A4C98618874E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

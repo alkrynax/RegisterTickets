@@ -1,0 +1,15 @@
+C:\Users\Lelia\Source\Repos\RegisterTickets\RegisterTickets\bin\Debug\net6.0\RegisterTickets.exe
+C:\Users\Lelia\Source\Repos\RegisterTickets\RegisterTickets\bin\Debug\net6.0\RegisterTickets.deps.json
+C:\Users\Lelia\Source\Repos\RegisterTickets\RegisterTickets\bin\Debug\net6.0\RegisterTickets.runtimeconfig.json
+C:\Users\Lelia\Source\Repos\RegisterTickets\RegisterTickets\bin\Debug\net6.0\RegisterTickets.dll
+C:\Users\Lelia\Source\Repos\RegisterTickets\RegisterTickets\bin\Debug\net6.0\RegisterTickets.pdb
+C:\Users\Lelia\Source\Repos\RegisterTickets\RegisterTickets\obj\Debug\net6.0\RegisterTickets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lelia\Source\Repos\RegisterTickets\RegisterTickets\obj\Debug\net6.0\RegisterTickets.AssemblyInfoInputs.cache
+C:\Users\Lelia\Source\Repos\RegisterTickets\RegisterTickets\obj\Debug\net6.0\RegisterTickets.AssemblyInfo.cs
+C:\Users\Lelia\Source\Repos\RegisterTickets\RegisterTickets\obj\Debug\net6.0\RegisterTickets.csproj.CoreCompileInputs.cache
+C:\Users\Lelia\Source\Repos\RegisterTickets\RegisterTickets\obj\Debug\net6.0\RegisterTickets.sourcelink.json
+C:\Users\Lelia\Source\Repos\RegisterTickets\RegisterTickets\obj\Debug\net6.0\RegisterTickets.dll
+C:\Users\Lelia\Source\Repos\RegisterTickets\RegisterTickets\obj\Debug\net6.0\refint\RegisterTickets.dll
+C:\Users\Lelia\Source\Repos\RegisterTickets\RegisterTickets\obj\Debug\net6.0\RegisterTickets.pdb
+C:\Users\Lelia\Source\Repos\RegisterTickets\RegisterTickets\obj\Debug\net6.0\RegisterTickets.genruntimeconfig.cache
+C:\Users\Lelia\Source\Repos\RegisterTickets\RegisterTickets\obj\Debug\net6.0\ref\RegisterTickets.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lelia\\source\\repos\\RegisterTickets\\RegisterTickets\\RegisterTickets.csproj": {}
+    "C:\\Users\\Lelia\\Source\\Repos\\RegisterTickets\\RegisterTickets\\RegisterTickets.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lelia\\source\\repos\\RegisterTickets\\RegisterTickets\\RegisterTickets.csproj": {
+    "C:\\Users\\Lelia\\Source\\Repos\\RegisterTickets\\RegisterTickets\\RegisterTickets.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lelia\\source\\repos\\RegisterTickets\\RegisterTickets\\RegisterTickets.csproj",
+        "projectUniqueName": "C:\\Users\\Lelia\\Source\\Repos\\RegisterTickets\\RegisterTickets\\RegisterTickets.csproj",
         "projectName": "RegisterTickets",
-        "projectPath": "C:\\Users\\Lelia\\source\\repos\\RegisterTickets\\RegisterTickets\\RegisterTickets.csproj",
+        "projectPath": "C:\\Users\\Lelia\\Source\\Repos\\RegisterTickets\\RegisterTickets\\RegisterTickets.csproj",
         "packagesPath": "C:\\Users\\Lelia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lelia\\source\\repos\\RegisterTickets\\RegisterTickets\\obj\\",
+        "outputPath": "C:\\Users\\Lelia\\Source\\Repos\\RegisterTickets\\RegisterTickets\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lelia\\AppData\\Roaming\\NuGet\\NuGet.Config",
